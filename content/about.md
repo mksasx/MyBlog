@@ -1,3 +1,9 @@
+---
+ ShowReadingTime: false
+ ShowToc: false
+ ShowLastMod: false
+ ShowWordCounts: false
+---
 ### 我的名字：
 Austin Ma
 ### 我来自：
