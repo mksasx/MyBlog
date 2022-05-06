@@ -1,4 +1,4 @@
-baseURL:  https://mksasx.github.io/MyBlog/
+baseURL:  https://mksasx.github.io
 languageCode: zh-cn
 title: Austin_Ma's Blog
 theme: "PaperMod"
@@ -172,7 +172,10 @@ params:
         threshold: 1
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary"]
-      
+   taxonomies:
+    category: categories
+    tag: tags
+    series: series
 markup:
     goldmark:
         renderer:
