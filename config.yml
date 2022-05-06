@@ -153,11 +153,11 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     assets:
-        favicon: "img/weixin.jpg"
-        favicon16x16: "img/weixin.jpg"
-        favicon32x32: "img/weixin.jpg"
-        apple_touch_icon: "weixin.jpg"
-        safari_pinned_tab: "weixin.jpg"
+        favicon: "img/1.webp"
+        favicon16x16: "img/1.webp"
+        favicon32x32: "img/1.webp"
+        apple_touch_icon: "1.webp"
+        safari_pinned_tab: "1.webp"
 
     # cover:
     #     hidden: true # hide everywhere but not in structured data
