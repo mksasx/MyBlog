@@ -20,8 +20,10 @@
 {{- end }}
 
 <!-- 作者 -->
+{{- if (.Param "ShowAuthor") -}}
 {{- with (partial "author.html" .) }}
 {{- $scratch.Add "meta" (slice .) }}
+{{- end }}
 {{- end }}
 
 <!-- 分隔方式 -->
